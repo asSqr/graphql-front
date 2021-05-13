@@ -1,0 +1,2 @@
+### generate
+`yarn graphql-codegen`
